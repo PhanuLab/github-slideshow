@@ -1,0 +1,3 @@
+git push --set-upstream origin <BRANCH NAME> appeared to not working with ZSH on macOS Catalina v10.15
+return message is zsh: parse error near `\n'
+resolved by mannually create the branch on GitHub webpage of the repository
